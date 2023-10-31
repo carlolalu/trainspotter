@@ -1,0 +1,3 @@
+Following the book 'Stewart Watkiss - Learn Electronics with Raspberry pi'
+
+Bookmark: chapter 2 - connecting with the rpi
